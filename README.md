@@ -1,2 +1,4 @@
-# HTML-CSS-Project
-Created with CodeSandbox
+CSS+HTML
+
+-Combine CSS and HTML knowledge;
+-Make a design based on the model presented;
